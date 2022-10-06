@@ -6,8 +6,6 @@
 
 - Linkedin: [https://www.linkedin.com/in/harshiltomar/](https://www.linkedin.com/in/harshiltomar/)
 
-- Leetcode: [https://leetcode.com/harshiltomar/](https://leetcode.com/harshiltomar/)
-
 - 📫 Contact Info: **harshiltomar20@gmail.com**
 
 - 📄 Resume: [https://drive.google.com/file/d/12ATNSJHogNFGQLp5UJCVeoO9IiVzPjhx/view?usp=sharing](https://drive.google.com/file/d/12ATNSJHogNFGQLp5UJCVeoO9IiVzPjhx/view?usp=sharing)
