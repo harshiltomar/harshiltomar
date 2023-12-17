@@ -9,9 +9,9 @@
 
 - 📫 Contact Info: **harshiltomar20@gmail.com**
   
-- Portfolio: [https://harshil-tomar.netlify.app/]
+- Portfolio: https://harshil-tomar.netlify.app/
 
-- 📄 Know my Experience: [https://drive.google.com/file/d/11UWISCu5pgVvpHTCmHW8a1R6ZZp-Grqi/view]
+- 📄 Know my Experience: https://drive.google.com/file/d/11UWISCu5pgVvpHTCmHW8a1R6ZZp-Grqi/view
 
 - ⚡ **Everyday , I Learn new things .**
 
