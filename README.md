@@ -3,17 +3,38 @@
 
 <img align="right" alt="Coding" width="200" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-- 🔭 I’m currently learning **Reactjs, Nodejs and REST APIs**
+- 👩🏻‍💻 Pronouns: He/Him
+- 💼 I’m currently working as a <strong>Software Engineer</strong> at [NewGen](newgensoft.com).
+- 📋 I've previously worked as a Fronr-End Designer at [Spotline](spotline.org/) and a Freelancer at [Fiverr](fiverr.com).
+- 🎒 I've done almost 6-7 internships in frontend primarily.
+- 🧭 I love exploring and working both in frontend and backend.
+- 🎭 I love speaking at events and connecting with people.
+- 🎒 Check out my Resume: [Resume](https://drive.google.com/file/d/11UWISCu5pgVvpHTCmHW8a1R6ZZp-Grqi/view)
+- 📺 Oh, I also got a Portfolio Website: [HARSHIL](https://harshil-tomar.netlify.app)
 
-- 🌱 Linkedin: [https://www.linkedin.com/in/harshiltomar/](https://www.linkedin.com/in/harshiltomar/)
+### :hammer_and_wrench: Languages and Tools 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>  
 
-- 📫 Contact Info: **harshiltomar20@gmail.com**
-  
-- Portfolio: https://harshil-tomar.netlify.app/
+### :fire: Streaks 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshiltomar)](https://git.io/streak-stats)  
 
-- 📄 Know my Experience: https://drive.google.com/file/d/11UWISCu5pgVvpHTCmHW8a1R6ZZp-Grqi/view
-
-- ⚡ **Everyday , I Learn new things .**
-
-- ⚡ **TechStack: Html, Css, Reactjs, Javascript, SQL**
-
+### :coffee: Hit Me Up Here
+<p align="center">
+	<a href="https://github.com/ghoshsuman845" alt="Github" title="github">
+       <img src="https://img.shields.io/badge/For_More_Useful_Repos-15k?style=for-the-badge&color=2088FF&logo=github&logoColor=fff"/>
+    </a>
+    <a href="https://github.com/ghoshsuman845/ghoshsuman845" alt="Github Stars" title="Star Mark Repo">
+        <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=ffd000&logo=apachespark&logoColor=black"/>
+    </a>
+    <a href="https://www.linkedin.com/in/ghoshsuman0129/">
+        <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
+    </a>
+</p>
