@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Harshil Tomar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px"></h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px"> , I'm Harshil Tomar </h1>
 
 ### :man_technologist: About Me 
 - 👩🏻‍💻 Pronouns: He/Him
@@ -26,13 +26,13 @@
 
 ### :coffee: Hit Me Up Here
 <p align="center">
-	<a href="https://github.com/ghoshsuman845" alt="Github" title="github">
+	<a href="https://github.com/harshiltomar/repos" alt="Github" title="github">
        <img src="https://img.shields.io/badge/For_More_Useful_Repos-15k?style=for-the-badge&color=2088FF&logo=github&logoColor=fff"/>
     </a>
-    <a href="https://github.com/ghoshsuman845/ghoshsuman845" alt="Github Stars" title="Star Mark Repo">
+    <a href="https://github.com/harshiltomar/" alt="Github Stars" title="Star Mark Repo">
         <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=ffd000&logo=apachespark&logoColor=black"/>
     </a>
-    <a href="https://www.linkedin.com/in/ghoshsuman0129/">
+    <a href="https://www.linkedin.com/in/harshiltomar/">
         <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
     </a>
 </p>
