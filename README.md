@@ -3,7 +3,7 @@
   &emsp;On a quest to expand my programming knowledge and skills in diverse tools and frameworks.
  - SDE at NewGen Software
  - Computer Science and Engineering MSIT'24
- - Pronouns: He/h\Him.
+ - Pronouns: He/Him.
 
 I'm always open to collaboration and always excited about working with other developers on meaningful projects. </br>
 **Connect w/m on **LinkedIn** [@linkedIn/harshiltomar](https://www.linkedin.com/in/harshiltomar/)** 📫
