@@ -5,7 +5,6 @@
 - 💼 I’m currently working as a <strong>Software Engineer</strong> at [NewGen](newgensoft.com).
 - 📋 I've previously worked as a Front-End Designer at [Spotline](spotline.org/) and a UI/UX Designer at [Fiverr](fiverr.com).
 - 🧭 I love exploring and working both in frontend and backend.
-- 🎭 I love speaking at events and connecting with people.
 - 🎒 Check out my Resume: [Resume](https://drive.google.com/file/d/11UWISCu5pgVvpHTCmHW8a1R6ZZp-Grqi/view)
 - 📺 Oh, I also got a Portfolio Website: [HARSHIL](https://harshil-tomar.netlify.app)
 
