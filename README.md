@@ -7,7 +7,8 @@
 
 I'm always open to collaboration and always excited about working with other developers on meaningful projects. </br>
 **Connect w/m on **LinkedIn** [@linkedIn/harshiltomar](https://www.linkedin.com/in/harshiltomar/)** 📫
-**Check out my **Resume** [@resume]([https://www.linkedin.com/in/harshiltomar/](https://drive.google.com/file/d/11UWISCu5pgVvpHTCmHW8a1R6ZZp-Grqi/view))** 📫
+
+**Check out my **Resume** [@resume](https://drive.google.com/file/d/11UWISCu5pgVvpHTCmHW8a1R6ZZp-Grqi/view)** 📫
 
 #### 💻 Tech Stack
 
