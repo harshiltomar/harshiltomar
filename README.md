@@ -12,8 +12,8 @@ I'm always open to collaboration and always excited about working with other dev
 
 #### 💻 Tech Stack
 
-- **Languages:** C++, JavaScript (Node.js, React.js), 
-- **Backend Development:** Express.js, Django, Flask
-- **Frontend Development:** HTML, CSS, Sass, Material-UI, Tailwind, Font-Awesome Icons
-- **Database:** Firebase, MySQL, MongoDB
+- **Languages:** C++, JavaScript, Java 
+- **Backend Development:** Express.js, Node.js
+- **Frontend Development:** HTML, CSS, React.js, Next.js, Tailwind
+- **Database:** Firebase, MySQL, MongoDB, PostGre, GraphQL
 - **Version Control:** Git, GitHub
