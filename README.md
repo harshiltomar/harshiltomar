@@ -1,9 +1,9 @@
 ### Hello there! I'm Harshil Tomar ✨
   &emsp;I enjoy turning abstract ideas into tangible solutions through coding. </br>
   &emsp;On a quest to expand my programming knowledge and skills in diverse tools and frameworks.
- - SDE at NewGen Software
+ - Currently: SDE at NewGen Software
+ - Prev: Fullstack developer ,Infiniti Solutions | Frontend Dev ,Spotline USA | UI/UX Designer, Fiverr
  - Computer Science and Engineering MSIT'24
- - Pronouns: He/Him.
 
 I'm always open to collaboration and always excited about working with other developers on meaningful projects. </br>
 **Connect w/m on **LinkedIn** [@linkedIn/harshiltomar](https://www.linkedin.com/in/harshiltomar/)** 📫
@@ -13,7 +13,7 @@ I'm always open to collaboration and always excited about working with other dev
 #### 💻 Tech Stack
 
 - **Languages:** C++, JavaScript, Java 
-- **Backend Development:** Express.js, Node.js
-- **Frontend Development:** HTML, CSS, React.js, Next.js, Tailwind
-- **Database:** Firebase, MySQL, MongoDB, PostGre, GraphQL
+- **Backend Development:** Express.js, Node.js, Prisma
+- **Frontend Development:** HTML, CSS, React.js, Typescript, Next.js, Tailwind, Axios
+- **Database:** Firebase, MySQL, MongoDB, PostGreSQL, GraphQL
 - **Version Control:** Git, GitHub
