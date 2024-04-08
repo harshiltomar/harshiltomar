@@ -13,7 +13,7 @@ I'm always open to collaboration and always excited about working with other dev
 - **Connect w/m on **Twitter** [@twitter/hartdrawss](https://twitter.com/hartdrawss)** 📫
 
 
-**Check out my **Resume** [@resume](https://drive.google.com/file/d/1wNJ1J0mZ60GplJ7_qzP0oCkbC4fnz9RV/view)** 📫
+**Check out my **Resume** [@resume](https://drive.google.com/file/d/1bMrNcdIye1G0AujKtwRXzLLKXLpZoyBg/view)** 📫
 
 #### 💻 Tech Stack
 
