@@ -1,8 +1,9 @@
 ### Hello there! I'm Harshil Tomar ✨
   &emsp;I enjoy turning abstract ideas into tangible solutions through coding. </br>
   &emsp;On a quest to expand my programming knowledge and skills in diverse tools and frameworks.
- - Currently: SDE at NewGen Software
+ - Currently: SWE at @hifivehq
  - Previous
+     - SDE Intern, NewGen Software
      - Fullstack Dev @Infiniti Solutions
      - Frontend Engineer @Spotline, USA (Remote)
      - UI/UX Designer, Fiverr
