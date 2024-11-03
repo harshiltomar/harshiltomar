@@ -6,9 +6,9 @@
 
 ### I am Currently building [@QuickScore](https://quickscore.vercel.app/) ✨
 
- - Current: Remote SDE-1, @hifivehq ( Techstar' 23 )
+ - Current: Remote SDE-1, [@hifivehq](https://hifivecommunity.com/) ( Techstar' 23 )
  - Previous
-     - SDE Intern, NewGen Software
+     - SDE Intern, [@NewGen](https://newgensoft.com/) Software
      - Fullstack Dev @Infiniti Solutions
      - Frontend Engineer @Spotline, USA (Remote)
      - UI/UX Designer, Fiverr
