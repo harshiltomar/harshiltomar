@@ -4,7 +4,7 @@
   &emsp;I enjoy turning abstract ideas into tangible solutions through coding. </br>
   &emsp;On a quest to expand my programming knowledge and skills in diverse tools and frameworks.
 
-### I am Currently building [@QuickScore](https://quickscore.vercel.app/) ✨
+### I am Currently building [@DreamLaunchStudios](https://quickscore.vercel.app/](https://dreamlaunch.studio/) ✨
 
  - Current: Remote SDE-1, [@hifivehq](https://hifivecommunity.com/) ( Techstar' 23 )
  - Previous
